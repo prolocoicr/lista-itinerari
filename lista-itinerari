@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "nome": "Percorso Storico del Borgo Antico",
+        "descrizione": "Un itinerario tra i vicoli medievali del centro storico, alla scoperta delle antiche mura e della torre campanaria.",
+        "durata": "2 ore",
+        "distanza": "3 km",
+        "video": "<iframe width='100%' height='315' src='https://www.youtube.com/watch?v=a8ntVmVpJeM&t=58s' frameborder='0' allowfullscreen></iframe>",
+        "img": "https://www.asiago.it/it/images/itinerari_escursioni_passeggiate/itinerari_e_passeggiate_altopiano_di_asiago_FB.jpg",
+        "luoghi_di_interesse": [
+            "Piazza del Comune",
+            "Torre Campanaria",
+            "Chiesa di San Pietro"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Sentiero Naturalistico del Fiume",
+        "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "durata": "3 ore",
+        "distanza": "5 km",
+        "img": "https://www.asiago.it/it/images/itinerari_escursioni_passeggiate/itinerari_e_passeggiate_altopiano_di_asiago_FB.jpg",
+        "luoghi_di_interesse": [
+            "Ponte Romano",
+            "Area Pic-nic del Fiume",
+            "Cascata della Valle"
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Giro delle Chiese Storiche",
+        "descrizione": "Un tour delle chiese più importanti del paese, con spiegazioni storiche e artistiche.",
+        "durata": "4 ore",
+        "distanza": "4.5 km",
+        "img": "https://www.asiago.it/it/images/itinerari_escursioni_passeggiate/itinerari_e_passeggiate_altopiano_di_asiago_FB.jpg",
+        "luoghi_di_interesse": [
+            "Chiesa di San Giovanni",
+            "Cattedrale di Santa Maria",
+            "Santuario della Madonna delle Grazie"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Escursione al Monte della Rocca",
+        "descrizione": "Un'escursione panoramica fino alla Rocca, con una vista mozzafiato sul paesaggio circostante.",
+        "durata": "5 ore",
+        "distanza": "8 km",
+        "img": "https://www.asiago.it/it/images/itinerari_escursioni_passeggiate/itinerari_e_passeggiate_altopiano_di_asiago_FB.jpg",
+        "luoghi_di_interesse": [
+            "Rocca del Castello",
+            "Belvedere della Rocca",
+            "Bosco di Querceti"
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Tour enogastronomico tra le cantine",
+        "descrizione": "Percorso tra le cantine locali, con degustazione di vini e prodotti tipici.",
+        "durata": "3 ore",
+        "distanza": "6 km",
+        "img": "https://www.asiago.it/it/images/itinerari_escursioni_passeggiate/itinerari_e_passeggiate_altopiano_di_asiago_FB.jpg",
+        "luoghi_di_interesse": [
+            "Cantina La Vigna",
+            "Cantina Valle Verde",
+            "Azienda Agricola Fior di Vino"
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Passeggiata nei Giardini Storici",
+        "descrizione": "Visita guidata nei giardini storici del paese, tra fontane e antichi alberi secolari.",
+        "durata": "1.5 ore",
+        "distanza": "2 km",
+        "img": "https://www.asiago.it/it/images/itinerari_escursioni_passeggiate/itinerari_e_passeggiate_altopiano_di_asiago_FB.jpg",
+        "luoghi_di_interesse": [
+            "Giardino delle Rose",
+            "Fontana del Vecchio Mulino",
+            "Orto Botanico Comunale"
+        ]
+    }
+]
